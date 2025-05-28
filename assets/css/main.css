@@ -2327,6 +2327,7 @@
 
 		.box.special {
 			text-align: center;
+			height: 300px; /* ปรับความสูงตามต้องการ */
 		}
 
 		.box .image.featured {
